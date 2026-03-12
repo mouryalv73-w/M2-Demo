@@ -7,6 +7,7 @@ public class Demo
 		System.out.println("Hello Engineers!");
 		System.out.println("Automation Engineers!");
 		System.out.println("Practice git conflict from AutomationTestEngineer workspace");
+		System.out.println("conflict 2");
 	}
 
 }
